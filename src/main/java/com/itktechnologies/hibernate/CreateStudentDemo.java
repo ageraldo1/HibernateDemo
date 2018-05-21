@@ -26,11 +26,10 @@ public class CreateStudentDemo {
 		} catch (Exception ex) {
 			ex.printStackTrace();
 			
+			
 		} finally {
 			factory.close();
-		}
-		
-		
+		}		
 
 	}
 
